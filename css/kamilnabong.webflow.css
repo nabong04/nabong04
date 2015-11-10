@@ -144,6 +144,7 @@ p {
 .logo-link {
   color: #333;
   text-decoration: none;
+  width: 100%;
 }
 .field {
   height: 53px;
